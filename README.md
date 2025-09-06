@@ -1,2 +1,2 @@
-# choristar-agent
+# Choristar Agent
 Agent AI
